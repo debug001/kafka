@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/calendar/src/data
+END
+Events.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/calendar/src/data/Events.js
+END
+MemoryEventStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/calendar/src/data/MemoryEventStore.js
+END
+CalendarMappings.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/calendar/src/data/CalendarMappings.js
+END
+CalendarModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/calendar/src/data/CalendarModel.js
+END
+Calendars.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/calendar/src/data/Calendars.js
+END
+MemoryCalendarStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/calendar/src/data/MemoryCalendarStore.js
+END
+EventMappings.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/calendar/src/data/EventMappings.js
+END
+EventModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/calendar/src/data/EventModel.js
+END

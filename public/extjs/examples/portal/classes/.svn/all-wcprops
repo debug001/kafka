@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/portal/classes
+END
+Portlet.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/portal/classes/Portlet.js
+END
+ChartPortlet.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/portal/classes/ChartPortlet.js
+END
+GridPortlet.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/portal/classes/GridPortlet.js
+END
+PortalColumn.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/portal/classes/PortalColumn.js
+END
+PortalPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/portal/classes/PortalPanel.js
+END
+PortalDropZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/portal/classes/PortalDropZone.js
+END

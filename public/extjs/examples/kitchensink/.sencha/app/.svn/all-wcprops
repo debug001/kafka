@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/kitchensink/.sencha/app
+END
+sencha.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/kitchensink/.sencha/app/sencha.cfg
+END
+production.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/kitchensink/.sencha/app/production.properties
+END
+testing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/kitchensink/.sencha/app/testing.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/kitchensink/.sencha/app/build.properties
+END
+codegen.json
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/kitchensink/.sencha/app/codegen.json
+END
+build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/kitchensink/.sencha/app/build-impl.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/viprelease/!svn/ver/1548/autorelease/kafka/public/extjs/examples/kitchensink/.sencha/app/plugin.xml
+END
